@@ -37,7 +37,8 @@ h1 { font-size: clamp(44px, 6vw, 86px); }
   border: 1px solid #d8d1e5; border-top: 4px solid var(--v);
   border-radius: 4px; text-decoration: none; background: var(--i);
 }
-.social-platform { font-size: 19px; font-weight: 800; }
+.social-platform { display: flex; align-items: center; gap: 12px; min-height: 28px; font-size: 19px; font-weight: 800; }
+.social-icon { display: block; width: 24px; height: 24px; flex: none; color: var(--v); }
 .social-handle { font-size: 14px; overflow-wrap: anywhere; }
 .social-action { display: flex; justify-content: space-between; gap: 16px; width: 100%; margin-top: auto; font-size: 14px; font-weight: 750; }
 .social-action > span { color: var(--v); font-size: 20px; line-height: 1; }

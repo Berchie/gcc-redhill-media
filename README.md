@@ -34,3 +34,5 @@ The configured custom domain is `mediabrochure.gccredhill.org.uk`. In GoDaddy DN
 ## Social links and responsive layout
 
 The brochure PDF and webpage link to the four official accounts listed on https://www.gccredhill.org.uk/: Instagram, X (Twitter), Facebook and TikTok. `assets/responsive.css` adapts the page for phones, tablets and desktop screens. Layout checks covered 320, 390, 600, 768, 820, 1024 and 1440 pixel widths.
+
+Social media icons are from [Font Awesome Free](https://github.com/FortAwesome/Font-Awesome/tree/6.x/svgs/brands), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Icon source files and the full licence are included under `assets/icons/`. The icons are embedded as vector artwork in the webpage and PDF.
