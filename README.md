@@ -29,4 +29,4 @@ The access QR is in `assets/brochure-access-qr.png`; a printable display is in `
 
 ## Custom domain
 
-The configured custom domain is `media.gccredhill.org.uk`. In GoDaddy DNS, add a CNAME record named `media` pointing to `berchie.github.io` (TTL: 1 hour). Keep the tracked `CNAME` file when updating this website. HTTPS becomes available after DNS and certificate checks complete.
+The configured custom domain is `mediabrochure.gccredhill.org.uk`. In GoDaddy DNS, add a CNAME record named `mediabrochure` pointing to `berchie.github.io` (TTL: 1 hour). Keep the tracked `CNAME` file when updating this website. HTTPS becomes available after DNS and certificate checks complete.
