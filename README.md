@@ -18,3 +18,11 @@ The webpage links to the PDF using a relative path, so both are hosted together.
 ## Updating
 
 Replace the PDF at the same path to keep its link stable. Edit `index.html` or replace the relevant files in `assets/` to update the webpage. Commit changes to `main`; GitHub Pages publishes them automatically.
+
+## Share the site
+
+Website: https://berchie.github.io/gcc-redhill-media/
+
+Brochure: https://berchie.github.io/gcc-redhill-media/brochures/gcc-media-ministry-brochure.pdf
+
+The access QR is in `assets/brochure-access-qr.png`; a printable display is in `brochures/gcc-media-qr-display.pdf`. This access QR opens the webpage. The sign-up QR in the brochure continues to open the Google Form.
