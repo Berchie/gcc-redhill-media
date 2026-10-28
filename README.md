@@ -21,9 +21,9 @@ Replace the PDF at the same path to keep its link stable. Edit `index.html` or r
 
 ## Share the site
 
-Website: https://berchie.github.io/gcc-redhill-media/
+Website: https://mediabrochure.gccredhill.org.uk/
 
-Brochure: https://berchie.github.io/gcc-redhill-media/brochures/gcc-media-ministry-brochure.pdf
+Brochure: https://mediabrochure.gccredhill.org.uk/brochures/gcc-media-ministry-brochure.pdf
 
 The access QR is in `assets/brochure-access-qr.png`; a printable display is in `brochures/gcc-media-qr-display.pdf`. This access QR opens the webpage. The sign-up QR in the brochure continues to open the Google Form.
 
