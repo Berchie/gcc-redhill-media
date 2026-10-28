@@ -30,3 +30,7 @@ The access QR is in `assets/brochure-access-qr.png`; a printable display is in `
 ## Custom domain
 
 The configured custom domain is `mediabrochure.gccredhill.org.uk`. In GoDaddy DNS, add a CNAME record named `mediabrochure` pointing to `berchie.github.io` (TTL: 1 hour). Keep the tracked `CNAME` file when updating this website. HTTPS becomes available after DNS and certificate checks complete.
+
+## Social links and responsive layout
+
+The brochure PDF and webpage link to the four official accounts listed on https://www.gccredhill.org.uk/: Instagram, X (Twitter), Facebook and TikTok. `assets/responsive.css` adapts the page for phones, tablets and desktop screens. Layout checks covered 320, 390, 600, 768, 820, 1024 and 1440 pixel widths.
