@@ -26,3 +26,7 @@ Website: https://berchie.github.io/gcc-redhill-media/
 Brochure: https://berchie.github.io/gcc-redhill-media/brochures/gcc-media-ministry-brochure.pdf
 
 The access QR is in `assets/brochure-access-qr.png`; a printable display is in `brochures/gcc-media-qr-display.pdf`. This access QR opens the webpage. The sign-up QR in the brochure continues to open the Google Form.
+
+## Custom domain
+
+The configured custom domain is `media.gccredhill.org.uk`. In GoDaddy DNS, add a CNAME record named `media` pointing to `berchie.github.io` (TTL: 1 hour). Keep the tracked `CNAME` file when updating this website. HTTPS becomes available after DNS and certificate checks complete.
